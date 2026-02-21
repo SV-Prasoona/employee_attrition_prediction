@@ -1,3 +1,2 @@
 .venv/
-models/*.pkl
 __pycache__/
